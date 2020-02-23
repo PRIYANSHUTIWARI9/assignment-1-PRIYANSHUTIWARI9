@@ -14,7 +14,6 @@ public class Person implements Comparable<Person> {
 
     //Setter for first name
     public void setFirstName(String firstName) {
-        System.out.println(firstName);
         this.firstName = firstName;
     }
 
@@ -25,7 +24,6 @@ public class Person implements Comparable<Person> {
 
     //Setter for last name
     public void setLastName(String lastName) {
-        System.out.println(lastName);
         this.lastName = lastName;
     }
 
